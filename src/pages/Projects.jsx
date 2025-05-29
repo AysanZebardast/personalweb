@@ -30,8 +30,8 @@ const projects = [
     tags: ["React", "tailwind"],
     image:
       "https://static.vecteezy.com/system/resources/previews/049/979/644/non_2x/girl-icon-symbol-illustration-isolated-on-white-background-vector.jpg",
-    link: "#",
-    github: "#",
+    link: "https://personalweb-zeta-beryl.vercel.app/",
+    github: "https://github.com/AysanZebardast/personalweb",
   },
 ];
 
